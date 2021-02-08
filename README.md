@@ -1,2 +1,1 @@
-### TODO: Readme File
-I don't know why i made one if i wasn't going to fill it...
+![A Funny Image](/funnyimage.jpg)
